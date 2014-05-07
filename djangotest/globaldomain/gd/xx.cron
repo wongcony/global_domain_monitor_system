@@ -1,0 +1,2 @@
+* */1 * * * python /djangotest/globaldomain/gd/dnspython.py
+
